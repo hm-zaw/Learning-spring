@@ -4,9 +4,9 @@ This repository demonstrates the implementation of key Spring JPA concepts, incl
 # **Overview**
 Spring JPA makes it easy to map database relationships in your application using annotations. This repository covers:
 
-`@OneToMany` and `@OneToMany` bidirectional relationships.
-`@ManyToMany` relationships with join tables.
-`@OneToOne` relationships for closely related entities.
+`@OneToMany` and `@OneToMany` bidirectional relationships.  
+`@ManyToMany` relationships with join tables.  
+`@OneToOne` relationships for closely related entities.  
 Inheritance mapping using the Single-Table Strategy.
 
 Each concept is demonstrated with clear, concise code and comments for better understanding.
